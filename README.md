@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Matheus Watanabe
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me matheuswatanabe1103@gmail.com
